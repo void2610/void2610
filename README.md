@@ -1,6 +1,6 @@
 ### Hi there 👋
-It’s Izumi Shuya.
-A fourth-year student at Fukui National College of Technology.
+## It’s Izumi Shuya.
+## A fourth-year student at Fukui National College of Technology.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=tokyonight" />
