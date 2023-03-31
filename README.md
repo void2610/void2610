@@ -1,5 +1,4 @@
 ## Hi there 👋
-### It’s Izumi Shuya.
 ### A fourth-year student at Fukui National College of Technology.
 
 <p align="left"> 
