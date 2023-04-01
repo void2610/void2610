@@ -12,15 +12,13 @@
 <a href="https://instagram.com/void_2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="void_2610" height="30" width="40" /></a>
 </p>
 
-<!-- LOanguages and Tools-->
 <h3 align="left"> :page_with_curl:  I'm currently learning: </h3>
-<br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
+![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=tokyonight" />
