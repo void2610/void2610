@@ -3,12 +3,16 @@
 <h3 align="left">:school:  I'm a fourth-year student at Fukui National College of Technology. </h3>
 
 <!-- Twitterマーク -->
-<p align="left"> <a href="https://twitter.com/void2610" target="blank"><img src="https://img.shields.io/twitter/follow/void2610?logo=twitter&style=for-the-badge" alt="void2610" /></a> </p>
+
 
 <!-- Connect with me -->
 <h3 align="left"> :telephone:  Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/void2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="void2610" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://twitter.com/void2610" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--1DA1F2.svg?logo=twitter&style=for-the-badge" alt="void2610" /></a> 
+  <a href="https://instagram.com/void_2610/" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--EC0391.svg?logo=instagram&style=for-the-badge" alt="void2610" /></a> 
+</p>
+
+
 <a href="https://instagram.com/void_2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="void_2610" height="30" width="40" /></a>
 </p>
 
