@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi there 👋
+
+
+<p align="left">
+  <a href="https://github.com/void2610/void2610/">
+    <img src="https://komarev.com/ghpvc/?username=void2610" alt="void2610" />
+  </a>
+  <a href="http://twitter.com/void2610">
+    <img height="20" src="https://img.shields.io/twitter/follow/void2610?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/void2610">
+    <img height="20" src="https://img.shields.io/github/followers/void2610?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/void2610">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/void2610/posts.svg" />
+  </a>
+  <//qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/void2610/contributions.svg" />
+  </a>
+</p>
+
 ### A fourth-year student at Fukui National College of Technology.
 
 <p align="left"> 
