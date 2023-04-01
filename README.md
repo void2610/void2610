@@ -13,9 +13,6 @@
 </p>
 
 
-<a href="https://instagram.com/void_2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="void_2610" height="30" width="40" /></a>
-</p>
-
 <h3 align="left"> :page_with_curl:  I'm currently learning: </h3>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
