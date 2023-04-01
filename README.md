@@ -14,9 +14,6 @@
   <a href="http://qiita.com/void2610">
     <img height="20" src="https://qiita-badge.apiapi.app/s/void2610/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/void2610/contributions.svg" />
-  </a>
 </p>
 
 ### A fourth-year student at Fukui National College of Technology.
