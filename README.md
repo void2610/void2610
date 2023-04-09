@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h3 align="left">:school:  I'm a fourth-year student at Fukui National College of Technology. </h3>
+<h3 align="left">:school:  I'm a fifth-year student at Fukui National College of Technology. </h3>
 
 <!-- Twitterマーク -->
 
