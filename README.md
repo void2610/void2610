@@ -20,8 +20,10 @@
 ![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
-
-
+ 
+ 
+ 
+# 
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=tokyonight" />
