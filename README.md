@@ -1,27 +1,36 @@
-# Hi there 👋
+# Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
-<h3 align="left">:school:  I'm a fifth-year student at Fukui National College of Technology. </h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="36" height="36" /> I'm a fifth-year student at Fukui National College of Technology.
 
 <!-- Twitterマーク -->
 
 
 <!-- Connect with me -->
-<h3 align="left"> :telephone:  Connect with me</h3>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="36" height="36" /> Connect with me:
+
+
 <p align="left"> 
   <a href="https://twitter.com/void2610" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--1DA1F2.svg?logo=twitter&style=for-the-badge" alt="void2610" /></a> 
   <a href="https://instagram.com/void_2610/" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--EC0391.svg?logo=instagram&style=for-the-badge" alt="void2610" /></a> 
 </p>
 
 
-<h3 align="left"> :page_with_curl:  I'm currently learning: </h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> I'm currently learning: 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
- 
- 
+![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
+  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
+</picture>
  
 # 
 
