@@ -26,11 +26,7 @@
 ![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
-  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)
  
 # 
 
