@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
 
-![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)] -->
  
 # 
 
