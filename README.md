@@ -2,32 +2,29 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="36" height="36" /> I'm a fifth-year student at Fukui National College of Technology.
 
-<!-- Twitterマーク -->
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> I'm currently learning: 
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity)
+![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
+
+![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)]
 
 
 <!-- Connect with me -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="36" height="36" /> Connect with me:
 
-
 <p align="left"> 
   <a href="https://twitter.com/void2610" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--1DA1F2.svg?logo=twitter&style=for-the-badge" alt="void2610" /></a> 
   <a href="https://instagram.com/void_2610/" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--EC0391.svg?logo=instagram&style=for-the-badge" alt="void2610" /></a> 
 </p>
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> I'm currently learning: 
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
-
-<!-- ![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)] -->
  
 # 
 
