@@ -14,8 +14,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
 
-![Snake animation](https://github.com/void2610/void2610/blob/output/github-contribution-grid-snake.svg)]
-
 
 <!-- Connect with me -->
 
