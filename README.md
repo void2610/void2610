@@ -1,4 +1,4 @@
-# Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&random=true&width=700&height=150&lines=Hi+there)](https://git.io/typing-svg)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="36" height="36" /> I'm a fifth-year student at Fukui National College of Technology.
 
@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge)
+<!-- ![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge) -->
 
 
 <!-- Connect with me -->
@@ -31,14 +31,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=void2610&theme=tokyonight&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=void2610&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=tokyonight&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&color=D62D2D&center=true&vCenter=true&random=true&width=900&height=150&lines=Join+to+AKARI+Inc.+!!)](https://git.io/typing-svg)
 
