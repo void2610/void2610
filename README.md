@@ -12,10 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
-<!-- ![Rust](https://img.shields.io/badge/-Rust-e35a0b.svg?logo=rust&style=for-the-badge) -->
-
-
-<!-- Connect with me -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="36" height="36" /> Connect with me:
 
@@ -27,7 +23,7 @@
 # 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=void2610&theme=tokyonight&show_icons=ture" />
 </p>
 
