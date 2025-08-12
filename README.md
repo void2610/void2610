@@ -22,15 +22,16 @@
  
 # 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=void2610&theme=dark&show_icons=ture" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/void2610)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&color=D62D2D&center=true&vCenter=true&random=true&width=900&height=150&lines=Join+to+AKARI+Inc.+!!)](https://git.io/typing-svg)
 
