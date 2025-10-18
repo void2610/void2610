@@ -19,8 +19,6 @@
   <a href="https://twitter.com/void2610" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--1DA1F2.svg?logo=twitter&style=for-the-badge" alt="void2610" /></a> 
   <a href="https://instagram.com/void_2610/" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--EC0391.svg?logo=instagram&style=for-the-badge" alt="void2610" /></a> 
 </p>
- 
-# 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
