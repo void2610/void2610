@@ -30,6 +30,3 @@
 [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/void2610)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&color=D62D2D&center=true&vCenter=true&random=true&width=900&height=150&lines=Join+to+AKARI+Inc.+!!)](https://git.io/typing-svg)
-
