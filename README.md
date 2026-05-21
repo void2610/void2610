@@ -20,12 +20,9 @@
   <a href="https://instagram.com/void_2610/" target="blank"><img src="https://img.shields.io/badge/Follow%20@void2610--EC0391.svg?logo=instagram&style=for-the-badge" alt="void2610" /></a> 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+![](./profile-3d-contrib/profile-night-green.svg)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void2610&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=void2610&theme=dark&show_icons=ture" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
