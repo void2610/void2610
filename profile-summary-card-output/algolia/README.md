@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/void2610/void2610/main/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    
